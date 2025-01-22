@@ -2,7 +2,7 @@
 
 免费图片/文件托管解决方案，基于 Cloudflare Pages 和 Telegram，支持 Telegram Bot 存储渠道和 Cloudflare R2 存储渠道。
 
-**前端仓库**：[MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub)
+**前端仓库**：[jinnan11/Sanyue-ImgHub](https://github.com/jinnan11/Sanyue-ImgHub)
 
 <details>
     <summary>公告</summary>
