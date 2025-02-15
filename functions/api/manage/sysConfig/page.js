@@ -50,7 +50,7 @@ export async function getPageConfig(kv, env) {
         {
             id: 'siteTitle',
             label: '网站标题',
-            placeholder: 'Sanyue ImgHub',
+            placeholder: '槿南网盘',
         },
         {
             id: 'siteIcon',
@@ -59,7 +59,7 @@ export async function getPageConfig(kv, env) {
         {
             id: 'ownerName',
             label: '图床名称',
-            placeholder: 'Sanyue ImgHub',
+            placeholder: '槿南网盘',
         },
         {
             id: 'logoUrl',
